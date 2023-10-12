@@ -1,0 +1,12 @@
+/bdclientes.db
+/bdclientes.db.lck
+/bdclientes.db.log
+/bdclientes.db.properties
+/bdclientes.db.script
+/bdclientes.db.tmp/
+/controler/
+/dao/
+/model/
+/snippet/
+/sqlite-jdbc-3.18.0.jar
+/view/
