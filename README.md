@@ -1,6 +1,6 @@
 # Crud-em-Java
 Meu primeiro Crud em java, para cadastro de clientes, pesquisa, exclusão e alteração, espero que gostem!
-Foi utilizado o Banco de Dados utilizado o SQLite para armazenamento das informações...
+Foi utilizado o Banco de Dados SQLite para armazenamento das informações...
 
 ABAIXO DEIXO ALGUMAS IMAGENS DO PROGRAMAÇÃO EM TEMPO DE EXECUÇÃO:
 
